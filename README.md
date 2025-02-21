@@ -16,13 +16,14 @@ simple script to extract all the numbers from XML file into Excel file
 
 ### On your computer:
 
-1. Make sure you computer has Python installed, if not you can download it
+1. Make sure your computer has Python installed, if not, you can download it
    from [here](https://www.python.org/downloads/)
 2. Clone this repository to your local machine by running the following command in your terminal:
 
 ```bash
 git clone https://github.com/AmihayHassan/ExtracrtNumbers.git
 ```
+or by downloading the project as `.zip` archive.
 
 3. Install the required packages by running the following command in your terminal:
 
