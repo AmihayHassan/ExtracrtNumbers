@@ -23,7 +23,7 @@ simple script to extract all the numbers from XML file into Excel file
 ```bash
 git clone https://github.com/AmihayHassan/ExtracrtNumbers.git
 ```
-or by downloading the project as `.zip` archive.
+or by downloading the project as `.zip` archive and extracting it.
 
 3. Install the required packages by running the following command in your terminal:
 
